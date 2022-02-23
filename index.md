@@ -5,7 +5,6 @@
 ```markdown
 
 
-# Header 1
 
 
 
@@ -15,7 +14,8 @@
 
 
 
- `Code`#!/bin/bash
+
+#!/bin/bash
 echo "[+] Installing XFCE4, this will take a while"
 apt-get update
 apt-get dist-upgrade -y --force-yes
